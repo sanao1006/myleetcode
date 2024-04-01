@@ -33,3 +33,5 @@ include("easy:p521")
 findProject(":easy:p521")?.name = "p521"
 include("easy:p551")
 findProject(":easy:p551")?.name = "p551"
+include("easy:p557")
+findProject(":easy:p557")?.name = "p557"
